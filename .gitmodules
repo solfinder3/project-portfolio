@@ -1,3 +1,15 @@
 [submodule "Casino_project"]
 	path = Casino_project
 	url = https://github.com/EthanClark/Casino_project
+[submodule "doctor_office"]
+	path = doctor_office
+	url = https://github.com/laradiana/doctor_office
+[submodule "billboard"]
+	path = billboard
+	url = https://github.com/solfinder3/billboard
+[submodule "trip_tracker"]
+	path = trip_tracker
+	url = https://github.com/EthanClark/trip_tracker
+[submodule "R.P.S"]
+	path = R.P.S
+	url = https://github.com/solfinder3/R.P.S
